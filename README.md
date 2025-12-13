@@ -31,7 +31,7 @@ This data analysis project focuses on delivering valuable insights into the sale
 ![Sales Dashboard](https://github.com/user-attachments/assets/73068ce2-181f-476e-9e4d-57e2729eea12)
 
 ### Data Source
-Sales Data: The primary dataset utilized for this analysis is the "sales_data.xlsx" file, which contains comprehensive details on each sale made by the company, categorized by region and salesperson.
+Sales Data: The primary dataset utilized for this analysis is the "sales data1.xlsx" file, which contains comprehensive details on each sale made by the company, categorized by region and salesperson.
 
 ### Tools
 
